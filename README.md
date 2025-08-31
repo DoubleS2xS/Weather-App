@@ -2,6 +2,9 @@
 
 A lightweight, responsive, and theme-switchable weather application built with HTML, CSS, and JavaScript. It fetches current weather data and presents it with a clean UI and persistent local storage for user preferences.
 
+## DEMO:
+https://doubles2xs.github.io/Weather-App/
+
 ##  Features
 
 -  **Current Weather** – Displays temperature, weather conditions, humidity, and wind information for the selected location.
